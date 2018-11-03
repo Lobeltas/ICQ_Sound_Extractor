@@ -1,4 +1,4 @@
-﻿Build started 2018-11-03 23:02:29.
+﻿Build started 2018-11-03 23:18:11.
      1>Project "D:\gitlab\ICQ\Project1\Project1.vcxproj" on node 2 (Rebuild target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
@@ -6,12 +6,12 @@
      1>main.cpp(20): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
      1>main.cpp(46): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\gitlab\ICQ\x64\Release\Project1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\gitlab\ICQ\x64\Release\Project1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\gitlab\ICQ\x64\Release\Project1.lib" /MACHINE:X64 x64\Release\main.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\gitlab\ICQ\x64\Release\ICQ_Sound_Extractor.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\gitlab\ICQ\x64\Release\ICQ_Sound_Extractor.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\gitlab\ICQ\x64\Release\ICQ_Sound_Extractor.lib" /MACHINE:X64 x64\Release\main.obj
          Generating code
          Finished generating code
-         Project1.vcxproj -> D:\gitlab\ICQ\x64\Release\Project1.exe
+         Project1.vcxproj -> D:\gitlab\ICQ\x64\Release\ICQ_Sound_Extractor.exe
      1>Done Building Project "D:\gitlab\ICQ\Project1\Project1.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.73
+Time Elapsed 00:00:00.61
